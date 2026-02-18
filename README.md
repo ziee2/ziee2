@@ -2,11 +2,11 @@
   
 # 👋 Halo, Saya Moh. Faried Al Farizi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Machine+Learning+Engineer;AI+Enthusiast+%7C+Bangkit+2024;Always+Learning+%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;Always+Learning+%2C+Always+Growing" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohfariedalfarizi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariedfarizi24@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=for-the-badge)](https://github.com/ziee2)
 
 </div>
 
@@ -18,10 +18,9 @@
 class MachineLearningEngineer:
     def __init__(self):
         self.name = "Moh. Faried Al Farizi"
-        self.role = "Machine Learning Engineer"
-        self.current_focus = ["Deep Learning", "NLP", "Computer Vision"]
+        self.role = "AI Engineer"
+        self.current_focus = ["Computer Vision", "NLP", "Deep Learning"]
         self.learning = ["AI Model Optimization", "MLOps", "Production Deployment"]
-        self.program = "Bangkit Academy 2024 - Machine Learning Path"
         
     def say_hi(self):
         print("Terima kasih sudah mengunjungi profil saya!")
@@ -78,11 +77,11 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziee2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1A1B27&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziee2&theme=tokyonight&hide_border=true&background=1A1B27&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziee2&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=c9d1d9)
 
 </div>
 
@@ -92,7 +91,7 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ziee2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -131,7 +130,7 @@ _"The best way to predict the future is to create it." - Abraham Lincoln_
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=6366F1&line=6366F1&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ziee2&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=6366F1&line=6366F1&point=FFFFFF)
 
 </div>
 
@@ -169,8 +168,8 @@ mindmap
 Saya selalu terbuka untuk diskusi tentang **Machine Learning**, **AI**, dan **teknologi** secara umum!
 
 📧 **Email:** [fariedfarizi24@gmail.com](mailto:fariedfarizi24@gmail.com)  
-💼 **LinkedIn:** [Klik di sini](YOUR_LINKEDIN_URL)  
-🌐 **Portfolio:** _Coming Soon!_
+💼 **LinkedIn:** [Klik di sini](https://www.linkedin.com/in/mohfariedalfarizi/)  
+🌐 **Portfolio:** [Klik di sini](https://ziee2.github.io/portofolio/)
 
 ### ⚡ Fun Fact
 > Saya sangat menikmati tantangan dalam mengoptimalkan model ML dan menemukan pola tersembunyi dalam data! 🔍✨
@@ -181,6 +180,6 @@ Saya selalu terbuka untuk diskusi tentang **Machine Learning**, **AI**, dan **te
 
 **Terima kasih sudah mengunjungi profil saya! 🙏**
 
-_Last Updated: 2024_
+_Last Updated: 2025_
 
 </div>
