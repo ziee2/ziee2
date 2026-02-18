@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohfariedalfarizi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariedfarizi24@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=for-the-badge)](https://github.com/ziee2)
+[![Profile Views](https://komarev.com/ghpvc/?username=ziee2&color=6366f1&style=for-the-badge)](https://github.com/ziee2)
 
 </div>
 
@@ -77,11 +77,13 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziee2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziee2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&cache_seconds=86400"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziee2&theme=tokyonight&hide_border=true&background=1A1B27&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziee2&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&cache_seconds=86400"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziee2&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=c9d1d9)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziee2&theme=radical&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
@@ -91,7 +93,7 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ziee2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=ziee2&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers"/>
 
 </div>
 
@@ -130,34 +132,39 @@ _"The best way to predict the future is to create it." - Abraham Lincoln_
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ziee2&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=6366F1&line=6366F1&point=FFFFFF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziee2&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Goals 2024
+## 🎯 Current Focus & Goals 2025
+
+<div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366F1','primaryTextColor':'#fff','primaryBorderColor':'#818CF8','lineColor':'#818CF8','secondaryColor':'#4F46E5','tertiaryColor':'#7C3AED','background':'#1e1e2e','mainBkg':'#6366F1','secondBkg':'#4F46E5','tertiaryBkg':'#7C3AED','clusterBkg':'#312E81','clusterBorder':'#818CF8','textColor':'#E5E7EB','fontSize':'16px','nodeBorder':'#818CF8','edgeLabelBackground':'#1e1e2e'}}}%%
 mindmap
-  root((ML Journey))
-    Deep Learning
+  root((🎯 ML Journey))
+    🧠 Deep Learning
       Neural Networks
       Transfer Learning
       Model Optimization
-    Computer Vision
+    👁️ Computer Vision
       Object Detection
       Image Segmentation
       YOLO Implementation
-    NLP
+    💬 NLP
       Transformer Models
       Sentiment Analysis
       Text Generation
-    MLOps
+    🚀 MLOps
       Model Deployment
-      CI/CD Pipeline
+      CI CD Pipeline
       Monitoring
 ```
+
+</div>
 
 ---
 
