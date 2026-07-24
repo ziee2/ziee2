@@ -1,58 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Moh.%20Faried%20Al%20Farizi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+%26+NLP+Enthusiast+%F0%9F%91%81%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Moh.%20Faried%20Al%20Farizi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20NLP&descAlignY=58&descSize=17&fontFamily=Poppins" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohfariedalfarizi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariedfarizi24@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-one-amber-56.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=ziee2&color=6366f1&style=for-the-badge&label=Profile+Views)](https://github.com/ziee2)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Membangun+sistem+AI+yang+bermanfaat;Computer+Vision+%26+Deep+Learning;Terus+belajar%2C+terus+bertumbuh" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mohfariedalfarizi/"><img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:fariedfarizi24@gmail.com"><img src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+<a href="https://portofolio-one-amber-56.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
+<img src="https://komarev.com/ghpvc/?username=ziee2&style=for-the-badge&color=141321&labelColor=141321&label=Views" />
 
 </div>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 Tentang Saya
+## Tentang Saya
 
-```python
-class MachineLearningEngineer:
-    def __init__(self):
-        self.name = "Moh. Faried Al Farizi"
-        self.role = "AI Engineer"
-        self.location = "Indonesia 🇮🇩"
-        self.current_focus = ["Computer Vision", "NLP", "Deep Learning"]
-        self.learning = ["AI Model Optimization", "MLOps", "Production Deployment"]
-        self.fun_fact = "Suka menemukan pola tersembunyi dalam data 🔍✨"
+AI Engineer asal Indonesia yang fokus pada **Computer Vision** dan **NLP**, saat ini menempuh **Bangkit Academy 2024**. Saya senang menggali pola tersembunyi dalam data dan mengubahnya menjadi sistem yang benar-benar dipakai orang — bukan cuma model yang bagus di notebook.
 
-    def say_hi(self):
-        print("Terima kasih sudah mampir ke profil saya!")
-        print("Yuk berkolaborasi & berbagi ilmu di dunia AI 🚀")
-
-me = MachineLearningEngineer()
-me.say_hi()
-```
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Sedang Dikerjakan
-- 🔬 Mengembangkan proyek **Machine Learning** & **Deep Learning**
-- 📚 Mendalami **NLP**, **Computer Vision**, dan **AI Model Optimization**
-- 🎓 Menjalankan **Bangkit Academy Cohort 2024**
-- 🌱 Belajar **MLOps** & sistem AI production-ready
+**🎯 Sedang dikerjakan**
+- Proyek Machine Learning & Deep Learning
+- Pendalaman NLP, Computer Vision, model optimization
+- Bangkit Academy Cohort 2024
+- MLOps & sistem AI production-ready
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 Terbuka Untuk
-- 🤝 Kolaborasi proyek **AI/ML** yang menantang
-- 💬 Diskusi seputar **model optimization**
-- 📖 Berbagi ilmu **Python**, **ML deployment**, best practices
-- 🌐 Networking dengan sesama praktisi AI
+**🤝 Terbuka untuk**
+- Kolaborasi proyek AI/ML yang menantang
+- Diskusi seputar model optimization
+- Berbagi ilmu Python & ML deployment
+- Networking dengan praktisi AI lain
 
 </td>
 </tr>
@@ -60,162 +48,114 @@ me.say_hi()
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Machine Learning & Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-**Data Science & Analysis**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Cloud & Tools**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ziee2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&cache_seconds=86400"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziee2&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=c9d1d9&cache_seconds=86400"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziee2&theme=radical&hide_border=true&background=0d1117&stroke=818CF8&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ziee2&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers"/>
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziee2&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818CF8&line=818CF8&point=FFFFFF&area=true&area_color=818CF8"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🔥 Featured Projects
-
-> 💼 Ganti bagian di bawah ini dengan proyek unggulan kamu — format ini siap pakai, tinggal isi.
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="20%"><b>Bahasa</b></td>
+<td width="80%">
+<img src="https://img.shields.io/badge/Python-141321?style=flat-square&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/SQL-141321?style=flat-square&logo=postgresql&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/JavaScript-141321?style=flat-square&logo=javascript&logoColor=A78BFA"/>
+</td>
+</tr>
+<tr>
+<td><b>ML / DL</b></td>
+<td>
+<img src="https://img.shields.io/badge/TensorFlow-141321?style=flat-square&logo=tensorflow&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/PyTorch-141321?style=flat-square&logo=pytorch&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Keras-141321?style=flat-square&logo=keras&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/scikit--learn-141321?style=flat-square&logo=scikit-learn&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/OpenCV-141321?style=flat-square&logo=opencv&logoColor=A78BFA"/>
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-141321?style=flat-square&logo=pandas&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/NumPy-141321?style=flat-square&logo=numpy&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Matplotlib-141321?style=flat-square&logo=plotly&logoColor=A78BFA"/>
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Google_Cloud-141321?style=flat-square&logo=google-cloud&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Docker-141321?style=flat-square&logo=docker&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Git-141321?style=flat-square&logo=git&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Jupyter-141321?style=flat-square&logo=jupyter&logoColor=A78BFA"/>
+</td>
+</tr>
+</table>
 
-### 🎯 [Nama Project Kamu](https://github.com/ziee2)
-Deskripsi singkat yang menjelaskan masalah yang diselesaikan proyek ini dan dampaknya.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-`Python` `TensorFlow` `OpenCV` `Flask`
+## Statistik GitHub
 
-**Highlights:**
-- ✨ Fitur / arsitektur utama
-- 🚀 Hasil (akurasi, performa, dsb.)
-- 💡 Insight atau pembelajaran penting
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ziee2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=A78BFA&text_color=C9C6D8&hide_rank=false&cache_seconds=86400"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziee2&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C9C6D8&cache_seconds=86400"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziee2&hide_border=true&background=0D0B1A&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideNums=C9C6D8&sideLabels=C9C6D8&dates=C9C6D8" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziee2&bg_color=0D0B1A&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## Proyek Unggulan
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>LLM · RAG · NLP</b> &nbsp;|&nbsp; Apr 2026</sub>
+
+**🩺 [AI Assistant Chatbot for Pharmacy POS](https://github.com/ziee2)**
+
+Hybrid retrieval-augmented generation chatbot untuk rekomendasi obat, memadukan retrieval semantik dengan LLM lokal dan terintegrasi langsung ke alur POS.
+
+`LangChain` `FAISS` `Ollama` `Sentence-BERT` `FastAPI`
+
+- RAG pipeline untuk data obat-obatan
+- Semantic search dengan Sentence-BERT
+- Integrasi FastAPI ke alur POS
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 [Nama Project Kamu](https://github.com/ziee2)
-Deskripsi singkat yang menjelaskan masalah yang diselesaikan proyek ini dan dampaknya.
+<sub><b>Computer Vision · Speech · NLP</b> &nbsp;|&nbsp; Nov 2025</sub>
 
-`Python` `PyTorch` `NLP` `Transformers`
+**🎤 [AI Public Speaking Coach](https://github.com/ziee2)**
 
-**Highlights:**
-- ✨ Fitur / arsitektur utama
-- 🚀 Hasil (akurasi, performa, dsb.)
-- 💡 Insight atau pembelajaran penting
+Sistem AI multi-modal yang menganalisis postur, artikulasi, filler words, tempo bicara, dan relevansi topik untuk melatih kemampuan public speaking.
+
+`MediaPipe` `YOLO` `BERT` `Wav2Vec2` `Silero VAD`
+
+- Analisis pose & gesture secara real-time
+- Evaluasi suara dan tempo bicara
+- Rekomendasi perbaikan yang actionable
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-_"The best way to predict the future is to create it." — Abraham Lincoln_
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯 ML Journey Roadmap
-
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366F1','primaryTextColor':'#fff','primaryBorderColor':'#818CF8','lineColor':'#818CF8','secondaryColor':'#4F46E5','tertiaryColor':'#7C3AED','background':'#1e1e2e','mainBkg':'#6366F1','secondBkg':'#4F46E5','tertiaryBkg':'#7C3AED','clusterBkg':'#312E81','clusterBorder':'#818CF8','textColor':'#E5E7EB','fontSize':'16px','nodeBorder':'#818CF8','edgeLabelBackground':'#1e1e2e'}}}%%
-mindmap
-  root((🎯 ML Journey))
-    🧠 Deep Learning
-      Neural Networks
-      Transfer Learning
-      Model Optimization
-    👁️ Computer Vision
-      Object Detection
-      Image Segmentation
-      YOLO Implementation
-    💬 NLP
-      Transformer Models
-      Sentiment Analysis
-      Text Generation
-    🚀 MLOps
-      Model Deployment
-      CI/CD Pipeline
-      Monitoring
-```
+### Mari Terhubung
 
-</div>
+Terbuka untuk diskusi seputar Machine Learning, AI, dan teknologi pada umumnya.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<a href="mailto:fariedfarizi24@gmail.com"><img src="https://img.shields.io/badge/fariedfarizi24%40gmail.com-141321?style=flat-square&logo=gmail&logoColor=A78BFA"/></a>
+<a href="https://www.linkedin.com/in/mohfariedalfarizi/"><img src="https://img.shields.io/badge/mohfariedalfarizi-141321?style=flat-square&logo=linkedin&logoColor=A78BFA"/></a>
+<a href="https://portofolio-one-amber-56.vercel.app/"><img src="https://img.shields.io/badge/Lihat_Portfolio-141321?style=flat-square&logo=vercel&logoColor=A78BFA"/></a>
 
-## 💬 Mari Terhubung!
+<sub>Last updated: 2026</sub>
 
-<div align="center">
-
-Saya selalu terbuka untuk diskusi tentang **Machine Learning**, **AI**, dan **teknologi** secara umum!
-
-[![Email](https://img.shields.io/badge/fariedfarizi24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fariedfarizi24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/mohfariedalfarizi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohfariedalfarizi/)
-[![Portfolio](https://img.shields.io/badge/Lihat_Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-one-amber-56.vercel.app/)
-
-### ⚡ Fun Fact
-> Saya sangat menikmati tantangan dalam mengoptimalkan model ML dan menemukan pola tersembunyi dalam data! 🔍✨
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**Terima kasih sudah mengunjungi profil saya! 🙏**
-
-_Last Updated: 2026_
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
 </div>
